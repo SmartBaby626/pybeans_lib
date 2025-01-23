@@ -9,3 +9,5 @@ description = "A library to encode and decode messages with the power of BEANS"
 readme = "README.md"
 license = "MIT AND (Apache-2.0 OR BSD-2-Clause)"
 keywords = ["beans", "code", "encrypt", "translator", "pybeans"]
+[tool.hatch]
+installer = "pip"
