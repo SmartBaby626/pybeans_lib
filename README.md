@@ -23,8 +23,8 @@ into your console, and you're ready to bean
 ## Usage
 Firstly, import the module:
 
-    import py-bEaNs_lib
-    from py-bEans_lib import pybeans
+    import py_bEaNs_lib
+    from py_bEans_lib import pybeans
   Then to encode use:
   
 
