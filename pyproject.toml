@@ -11,3 +11,5 @@ license = "MIT AND (Apache-2.0 OR BSD-2-Clause)"
 keywords = ["beans", "code", "encrypt", "translator", "pybeans"]
 [tool.hatch]
 installer = "pip"
+[tool.hatch.version]
+path = "src/hatch_demo/__about__.py"
