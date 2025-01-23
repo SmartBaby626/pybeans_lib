@@ -25,7 +25,7 @@ Firstly, import the module:
 
     import py_bEaNs_lib
     from py_bEans_lib import pybeans
-  Then to encode use:
+  Then to encode use:.
   
 
     pybeans.bean("This code is a sacrifice to the bean lords")
