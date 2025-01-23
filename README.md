@@ -1,4 +1,4 @@
-# Introducing pybEaNs
+# Introducing py-bEaNs
 **The new easiest and not convoluted whatsoever way to talk to your friends**
 
 Ever wanted to talk to your friends using only the word "beans"?
@@ -17,21 +17,21 @@ Using our comprehensive **bean dictionary**™, which includes:
 ## Installation
 Simply type
 
-    pip install pybEaNs
+    pip install py-bEaNs
 
 into your console, and you're ready to bean
 ## Usage
 Firstly, import the module:
 
-    import pybEaNs
+    import py-bEaNs
   Then to encode use:
   
 
-    pybEaNs.bean("This code is a sacrifice to the bean lords")
+    py-bEaNs.bean("This code is a sacrifice to the bean lords")
    and to decode:
    
 
-    pybEaNs.debean("Im too lazy to generate some actually encoded text for this tutorial")
+    py-bEaNs.debean("Im too lazy to generate some actually encoded text for this tutorial")
 
 ## Reviews
 480g of my 500g can of baked beans recommend this product!
