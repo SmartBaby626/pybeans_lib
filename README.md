@@ -24,14 +24,15 @@ into your console, and you're ready to bean
 Firstly, import the module:
 
     import py-bEaNs_lib
+    from py-bEans_lib import pybeans
   Then to encode use:
   
 
-    py-bEaNs_lib.bean("This code is a sacrifice to the bean lords")
+    pybeans.bean("This code is a sacrifice to the bean lords")
    and to decode:
    
 
-    py-bEaNs_lib.debean("Im too lazy to generate some actually encoded text for this tutorial")
+    pybeans.debean("Im too lazy to generate some actually encoded text for this tutorial")
 
 ## Reviews
 480g of my 500g can of baked beans recommend this product!
