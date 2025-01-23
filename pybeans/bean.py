@@ -91,8 +91,6 @@ def bean(plaintext):
         for i in plaintext:
             result = result + beanDict[i] + " "
     except KeyError:
-        print("Your message contains a character not recognized by pybeans. Character has been removed from result")
+        print("Your message contains a character not recognized by pybEaNs. Character has been removed from result")
 
     return result
-
-print(bean("Well now you can!"))

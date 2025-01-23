@@ -93,6 +93,6 @@ def debean(encoded_text):
         for i in encoded_array:
             result = result + inv_beanDict[i]
     except KeyError:
-        print("Your message contains a character not recognized by pybeans. Character has been removed from result")
+        print("Your message contains a character not recognized by pybEaNs. Character has been removed from result")
 
     return result
