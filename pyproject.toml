@@ -12,4 +12,4 @@ keywords = ["beans", "code", "encrypt", "translator", "pybeans"]
 [tool.hatch]
 installer = "pip"
 [tool.hatch.version]
-path = "src/hatch_demo/setup.py"
+path = "src/setup.py"
